@@ -1,6 +1,6 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Nyara",
-  description: "Nextjs + Ollama app that runs on OpenxAI!",
+  name: "OpenxAI Chatbot",
+  description: "Advanced AI-powered chatbot built with Next.js and Ollama on OpenxAI platform",
 } as const;
